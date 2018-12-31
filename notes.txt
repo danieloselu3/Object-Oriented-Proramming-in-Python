@@ -1,0 +1,46 @@
+Softwares you need for this book.
+    > Python 3.0+
+    > py.test
+    > coverage.py
+    > SQLAlchemy
+    > pygame
+    > PyQt
+    > CherryPy
+    > lxml
+
+What this book covers.
+    chapter 1 : Object-oriented Design.
+        In this chapter, we cover object-oriented concepts. It deals mainly with abstraction, inheritance, polymorphism and encapsulation.We also briefly look at UML to model classes and Objects.
+
+    chapter 2 : Objects in Python.
+        In this chapter, we discuss classes and Objects, and how they are used in Python. We will look at attributes and behaviors in Python objects, and also the organization of classes into packages and modules. Lastly we shall see how to protect our data.
+
+    chapter 3 : When Objects are Alike.
+        This chapter gives us more in-depth look into inheritance. It covers multiple inheritance and shows us how to inherit from built-ins. This chapter also covers polymorphism and duck typing.
+
+    chapter 4 : Expecting the Unexpected.
+        This chapter looks at exceptions and exception handling. We shall learn how to create our own exceptions. It also deals with the use of exceptions for program flow control.
+
+    chapter 5 : When to Use Object-oriented Programming.
+        This chapter deals with objects; when to create and use them. We will also see how to wrap data using properties, and restricting data access. This chapter also discusses the DRY principle and how not to repeat code.
+
+    chapter 6 : Python Data Structures.
+        This chapter covers object-oriented features of data structures, Mainly tuples, dictionaries, lists, and sets. We will also see how to extend built-in objects.
+
+    chapter 7 : Python Object-oriented Shortcuts.
+        This chapter deals with little time savers in Python. We shall look at many useful built-in functions, then move to using comprehensions in lists, sets, and dictionaries. We will learn about generators, method overloading, and default arguments. We shall also see how to use functions as objects.
+
+    chapter 8 : Python Design Patterns 1.
+        This chapter introduces Python design Patterns. We shall see the Python decorator pattern, observer pattern, strategy pattern, state pattern, singleton pattern, and template pattern.
+
+    chapter 9 : Python Design Patterns 2.
+        This chapter picks up where the previous chapter left us. We see the adapter pattern, facade pattern, flyweight pattern, command pattern, abstract pattern, and composite pattern with suitable examples.
+
+    chapter 10 : Files and Strings.
+        This chapter looks and strings and string formatting. Bytes and byte arrays are also discussed. We shall also look at files, and how to write and read data to and from files. We shall also look at ways to store and pickle objects, and finally the chapter discusses serializing objects.
+
+    chapter 11 : Testing Object-Oriented Programs.
+        This chapter opens with the use of tests and why testing is so important. It focuses on test-driven development. We shall see how to use the unittest module, and also the py.test automated testing suite. Lastly we shall cover code coverage using coverage.py.
+
+    chapter 12 : Common Python 3 Libraries.
+        This chapter concentrates on libraries and their utilization in application building. We shall build databases using SQLAlchemy, and user interfaces TKInter and PyQt. This chapter also goes on to discuss how to construct XML documents and we shall see hoe to use ElementTree and lxml. Lastly we will use CherryPy and Jinja to create a web application.
