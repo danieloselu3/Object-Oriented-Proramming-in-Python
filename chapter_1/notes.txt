@@ -1,1 +1,24 @@
-Object Oriented Design
+CHAPTER 1 : Object Oriented Design
+
+In this chapter will learn:
+    1.What Object-Oriented means.
+    2.The difference btw Object-Oriented Design and Object-oriented programming.
+    3.The basic principles of Object-oriented design.
+    4.Basic Unified Modeling Language(UML) and when it isn't evil.
+
+Object Oriented Analysis(OOA)
+Is the process of looking at a task, system or problem that has to be turned into a program and identifying the objects and interaction between these objects.
+The analysis stage is all about what needs to be done.
+In this stage, we would turn the task "I need a website" into a set of requirement, such as;
+    Visitors in the website need to be able to:
+    --> review(action) our history(Object)
+    --> apply(action) for jobs(Object)
+    --> browse(action), compare(action), and order(action) our products(Object)
+
+Object Oriented design(OOD)
+Is the process of converting such requirements into an implementation specification.
+The designer must name the objects, define their behaviors, and formally specify what objects can activate specific behaviors on other objects.
+In this stage we would have turned the requirements into a set of classes and interfaces that could be implemented in any OOP language.
+
+Object Oriented Programming(OOP)
+Is the process of converting this perfectly defined defined design into a working program that does exactly what it was intended to do.
