@@ -1,0 +1,7 @@
+This chapter looks at the python syntax that allows us to create Object-Oriented software.
+
+Chapter Objectives
+    Creating classes and instance objects in Python.
+    Adding attributes and behaviors to Python objects.
+    Organizing classes into packages and modules.
+    How to suggest people don't clobber our data.
